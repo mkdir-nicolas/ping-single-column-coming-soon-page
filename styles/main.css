@@ -5,7 +5,7 @@ main {
   padding-inline: 20px;
 }
 
-main img:first-child {
+.imgPing {
   width: 16%;
 }
 main .main-header,

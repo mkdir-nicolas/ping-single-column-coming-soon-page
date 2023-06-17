@@ -2,7 +2,7 @@ main {
   max-width: 698px;
   margin: auto;
 }
-main img:first-child {
+.imgPing {
   max-width: 88px;
 }
 
